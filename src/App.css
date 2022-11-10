@@ -14,6 +14,7 @@
     grid-gap: 1%;
     justify-content: center;
     grid-auto-rows: max-content;
+    margin-bottom: 2rem;
 }
 
 .BakeryItem {
