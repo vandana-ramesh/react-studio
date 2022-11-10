@@ -13,6 +13,7 @@
     grid-template-columns: 30% 30% 30%;
     grid-gap: 1%;
     justify-content: center;
+    grid-auto-rows: max-content;
 }
 
 .BakeryItem {
